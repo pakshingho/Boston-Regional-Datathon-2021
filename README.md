@@ -14,13 +14,15 @@ More specifically, we first explore **the effects countries have on each other**
   - Policy-makers should **take the relationship of different sections into account**. For example, how reopening its border affects the neighboring countries or how reopening schools affects the health well-being of the elders. 
   - Countries should **work together when implementing a policy** in order to achieve the best effects.
 
-<figure>
-  <img src="/images/FRA_new_deaths_map.jpg" alt="Caption text">
+<figure><div style="text-align:center">
+    <img src="/images/FRA_new_deaths_map.jpg" alt="Caption text">
+    </div>
   <figcaption>Figure A: Correlation with France in terms of new deaths per day. Neighboring countries of France show positive correlation (blue), distant countries in Eastern Europe show negative correlation (red) with France.</figcaption>
 </figure>
 
 <figure>
-  <center><img src="/images/time_lags.jpg" alt="Caption text"></center>
+  <center>
+  <img src="/images/time_lags.jpg" alt="Caption text"></center>
   <figcaption>Figure B: Lead-lag of synchronization between weekly new cases of age groups. Roughly speaking, younger groups lead older groups by a week or so.</figcaption>
 </figure>
 
