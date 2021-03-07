@@ -1,5 +1,4 @@
-# Boston-Regional-Datathon-2021
-Boston Regional Datathon March 2021
+# Boston Regional Datathon March 2021
 
 Team 10 with four members: David Wei (Harvard), Imane Farhat (MIT), Pak Shing Ho (BU), Shahbaz Mogal (MSOE).
 
