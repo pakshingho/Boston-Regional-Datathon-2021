@@ -20,10 +20,8 @@ More specifically, we first explore **the effects countries have on each other**
 </figure>
 
 <figure>
-  <center>
-    <img src="/images/time_lags.jpg" alt="Caption text">
+  <center><img src="/images/time_lags.jpg" alt="Caption text"></center>
   <figcaption>Figure B: Lead-lag of synchronization between weekly new cases of age groups. Roughly speaking, younger groups lead older groups by a week or so.</figcaption>
-  </center>
 </figure>
 
 Link to Problem Statement: [2021 Boston Regional Datathon Problem Statement](https://github.com/pakshingho/Boston-Regional-Datathon-2021/blob/main/docs/2021%20Boston%20Regional%20Datathon%20Problem%20Statement.pdf)
