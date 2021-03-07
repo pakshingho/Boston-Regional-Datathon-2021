@@ -1,4 +1,4 @@
-# COVID, We Are in This Fight Together
+# [COVID, We Are in This Fight Together](https://github.com/pakshingho/Boston-Regional-Datathon-2021/blob/main/docs/Final_Report.pdf)
 
 ## Boston Regional Datathon March 2021
 
