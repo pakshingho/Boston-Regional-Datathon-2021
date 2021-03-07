@@ -1,6 +1,6 @@
 # Boston Regional Datathon March 2021
 
-Team 10 with four members: David Wei (Harvard), Imane Farhat (MIT), Pak Shing Ho (BU), Shahbaz Mogal (MSOE).
+Team 10 with four members: ***David Wei (Harvard), Imane Farhat (MIT), Pak Shing Ho (BU), Shahbaz Mogal (MSOE)***.
 
 COVID-19 has brought to the world as much division and mistrust as physical suffering and deaths. Countries have adopted the mindset to help themselves, while alienating working with countries claimed to be “epicenters” or those with policies different to their own. Within the same country itself, sections of the society have divided themselves into subgroups obeying rules that benefit them, while turning a blind eye to other rules at the expense of other subgroups of society. This study shows that moving away from COVID-19 will take a more **concerted effort from all countries and all subgroups within countries**, and this will be beneficial to all groups involved.
 
