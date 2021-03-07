@@ -21,8 +21,8 @@ More specifically, we first explore **the effects countries have on each other**
 </figure>
 
 <figure>
-  <center>
-  <img src="/images/time_lags.jpg" alt="Caption text"></center>
+  <div style="text-align:center">
+  <img src="/images/time_lags.jpg" alt="Caption text"></div>
   <figcaption>Figure B: Lead-lag of synchronization between weekly new cases of age groups. Roughly speaking, younger groups lead older groups by a week or so.</figcaption>
 </figure>
 
