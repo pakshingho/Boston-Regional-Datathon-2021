@@ -20,11 +20,10 @@ More specifically, we first explore **the effects countries have on each other**
   <figcaption>Figure A: Correlation with France in terms of new deaths per day. Neighboring countries of France show positive correlation (blue), distant countries in Eastern Europe show negative correlation (red) with France.</figcaption>
 </figure>
 
-<figure>
-  <div style="text-align:center">
-  <img src="/images/time_lags.jpg" alt="Caption text"></div>
+<div style="text-align:center"><figure>
+  <img src="/images/time_lags.jpg" alt="Caption text">
   <figcaption>Figure B: Lead-lag of synchronization between weekly new cases of age groups. Roughly speaking, younger groups lead older groups by a week or so.</figcaption>
-</figure>
+</figure></div>
 
 Link to Problem Statement: [2021 Boston Regional Datathon Problem Statement](https://github.com/pakshingho/Boston-Regional-Datathon-2021/blob/main/docs/2021%20Boston%20Regional%20Datathon%20Problem%20Statement.pdf)
 
