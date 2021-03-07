@@ -14,6 +14,10 @@ More specifically, we first explore **the effects countries have on each other**
   - Policy-makers should **take the relationship of different sections into account**. For example, how reopening its border affects the neighboring countries or how reopening schools affects the health well-being of the elders. 
   - Countries should **work together when implementing a policy** in order to achieve the best effects.
 
+![alttext](/images/time_lags.jpg "caption")
+
+![Caption.](/images/time_lags.jpg) {#fig:description}
+
 Link to Problem Statement: [2021 Boston Regional Datathon Problem Statement](https://github.com/pakshingho/Boston-Regional-Datathon-2021/blob/main/docs/2021%20Boston%20Regional%20Datathon%20Problem%20Statement.pdf)
 
 Link to our report: [COVID, We Are in This Fight Together](https://github.com/pakshingho/Boston-Regional-Datathon-2021/blob/main/docs/Final_Report.pdf)
